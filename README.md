@@ -31,15 +31,22 @@ Repositório com material utilizado no grupo de estudos do Ramo Estudantil IEEE 
 
 ### [Módulo 2 - Data Science - 2021.1]()
 
-#### Introdução à linguagem Python
+#### Introdução à Linguagem Python e a Biblioteca Pandas
 - [x] Revisão de Python
 - [x] Introdução ao Pandas
 
 #### Tratamento de Dados com Pandas
+- [x] Exploração, Limpeza e Preparação dos Dados
+- [x] Junção, Combinação e Reformação dos Dados 
 
 #### Visualização de dados
+- [x] Storytelling e Visualização de Dados
 
 #### Treinamento de Git/GitHub
+- [] Git/Github
+
+#### Projeto Final
+- [] Tratamento e Visualização da base de dados disponibilizada
 
 ## Contribuindo 
 
