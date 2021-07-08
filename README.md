@@ -16,7 +16,7 @@ Repositório com material utilizado no grupo de estudos do Ramo Estudantil IEEE 
 
 ### [Módulo 1 - Machine Learning - 2020.2](https://github.com/Ramo-Estudantil-IEEE-UFBA/ArtIEEEficiais/tree/main/Grupo%20de%20Estudos%20-%20Intelig%C3%AAncia%20Artificial%20-%202020.2)
 
-YouTube - (Encontros gravados)[https://www.youtube.com/watch?v=q7AxYZD9Pbs&list=PLXvukuSu5YIKbLLpnfs9GHvptKRjyKRUu]
+YouTube - [Encontros gravados](https://www.youtube.com/watch?v=q7AxYZD9Pbs&list=PLXvukuSu5YIKbLLpnfs9GHvptKRjyKRUu)
 
 #### Introdução as ferramentas
 - [X] Gestão de pacotes e criação de ambientes virtuais em python (Anaconda / PIP)
@@ -33,7 +33,7 @@ YouTube - (Encontros gravados)[https://www.youtube.com/watch?v=q7AxYZD9Pbs&list=
 
 ### [Módulo 2 - Data Science - 2021.1](https://github.com/Ramo-Estudantil-IEEE-UFBA/ArtIEEEficiais/tree/main/Módulo%202%20-%20Data%20Science%20-%202021.1)
 
-YouTube - (Encontros gravados)[https://www.youtube.com/watch?v=uIQ9Kl5EPh4&list=PLXvukuSu5YIJiPj4r_0ntoDNbEixqK0Rc]
+YouTube - [Encontros gravados](https://www.youtube.com/watch?v=uIQ9Kl5EPh4&list=PLXvukuSu5YIJiPj4r_0ntoDNbEixqK0Rc)
 
 #### Introdução à Linguagem Python e a Biblioteca Pandas
 - [x] Revisão de Python
