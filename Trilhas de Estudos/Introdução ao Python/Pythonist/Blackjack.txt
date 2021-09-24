@@ -10,9 +10,9 @@ Crie um Blackjack 21 simples, Dealer x Player.
 
 > O dealer dá 1 cartão aberto a todos, incluindo a si próprio
 > O dealer dá então outro cartão aberto a todos menos a si próprio, depois dá um cartão fechado a si próprio
-> Se um jogador acerta num blackjack na mão de abertura é-lhe atribuído 1,5 vezes a sua aposta (se apostar 1 recebe 2,5 em troca)
+> Se um jogador acerta num blackjack na mão de abertura é-lhe atribuído 1.5 vezes a sua aposta (se apostar 1 recebe 2,5 em troca)
 
-###pode decidir fazer uma de cada acção:
+### Pode decidir fazer uma de cada ação:
 
 > hit - o jogador pede outra carta
 > stay - o jogador termina a sua vez
