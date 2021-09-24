@@ -47,10 +47,10 @@ YouTube - [Encontros gravados](https://www.youtube.com/watch?v=uIQ9Kl5EPh4&list=
 - [x] Storytelling e Visualização de Dados
 
 #### Treinamento de Git/GitHub
-- [ ] Git/Github
+- [x] Git/Github
 
 #### Projeto Final
-- [ ] Tratamento e Visualização da base de dados disponibilizada
+- [x] Tratamento e Visualização da base de dados disponibilizada
 
 ## Contribuindo 
 
