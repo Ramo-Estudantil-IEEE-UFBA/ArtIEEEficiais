@@ -14,9 +14,12 @@ Repositório com material utilizado no grupo de estudos do Ramo Estudantil IEEE 
 
 ## Conteúdo Programático: 
 
-### [Módulo 1 - Machine Learning - 2020.2](https://github.com/Ramo-Estudantil-IEEE-UFBA/ArtIEEEficiais/tree/main/Grupo%20de%20Estudos%20-%20Intelig%C3%AAncia%20Artificial%20-%202020.2)
+### [Módulo 1 - Machine Learning - 2020.2](https://github.com/Ramo-Estudantil-IEEE-UFBA/ArtIEEEficiais/tree/main/M%C3%B3dulo%201%20-%20Machine%20Learning%20-%202020.2)
 
 YouTube - [Encontros gravados](https://www.youtube.com/watch?v=q7AxYZD9Pbs&list=PLXvukuSu5YIKbLLpnfs9GHvptKRjyKRUu)
+
+<details>
+  <summary>Tópicos</summary>
 
 #### Introdução as ferramentas
 - [X] Gestão de pacotes e criação de ambientes virtuais em python (Anaconda / PIP)
@@ -31,9 +34,16 @@ YouTube - [Encontros gravados](https://www.youtube.com/watch?v=q7AxYZD9Pbs&list=
 - [x] Regressão
 - [x] Classificação
 
+</details>
+
+<hr/>
+
 ### [Módulo 2 - Data Science - 2021.1](https://github.com/Ramo-Estudantil-IEEE-UFBA/ArtIEEEficiais/tree/main/Módulo%202%20-%20Data%20Science%20-%202021.1)
 
 YouTube - [Encontros gravados](https://www.youtube.com/watch?v=uIQ9Kl5EPh4&list=PLXvukuSu5YIJiPj4r_0ntoDNbEixqK0Rc)
+
+<details>
+  <summary>Tópicos</summary>
 
 #### Introdução à Linguagem Python e a Biblioteca Pandas
 - [x] Revisão de Python
@@ -51,6 +61,32 @@ YouTube - [Encontros gravados](https://www.youtube.com/watch?v=uIQ9Kl5EPh4&list=
 
 #### Projeto Final
 - [x] Tratamento e Visualização da base de dados disponibilizada
+
+</details>
+
+<hr/>
+
+### [Módulo 3 - Machine Learning - 2022.2](https://github.com/Ramo-Estudantil-IEEE-UFBA/ArtIEEEficiais/tree/main/M%C3%B3dulo%203%20-%20Machine%20Learning%20-%202022.1)
+
+YouTube - [Encontros gravados]() (Breve)
+
+<details>
+  <summary>Tópicos</summary>
+
+#### Tópico
+- [ ] Item 1
+- [ ] Item 2
+
+#### Tópico
+- [ ] Item 1
+- [ ] Item 2
+#### Tópico
+- [ ] Item 1
+- [ ] Item 2
+
+</details>
+
+<hr/>
 
 ## Contribuindo 
 
